@@ -20,5 +20,6 @@ class Solution {
             result.add(newRow);
         }
         return result;
+ 
     }
 }
