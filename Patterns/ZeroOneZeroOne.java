@@ -18,7 +18,7 @@ public class ZeroOneZeroOne {
 }
 
 // 0                    use matric position sum
-// 1 0 
+// 1 0                    even sum = 0 and odd sum =1
 // 0 1 0 
 // 1 0 1 0 
 // 0 1 0 1 0 
